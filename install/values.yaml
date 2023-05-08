@@ -8,7 +8,7 @@ service:
 
 container:
   name: protonmail-bridge
-  image: henxn/protonmail-bridge
+  image: shenxn/protonmail-bridge
   pullPolicy: IfNotPresent
 
 

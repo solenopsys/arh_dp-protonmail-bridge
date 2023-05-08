@@ -9,7 +9,7 @@ helm_build_push(){
 
 NAME=ms-protonmail-bridge
 ARCHS="linux8amd64,linux/arm64"
-VER=0.1.0
+VER=0.1.2
 
 helm_build_push
 
