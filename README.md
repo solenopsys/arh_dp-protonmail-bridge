@@ -1,2 +1,2 @@
-# platform-ms-protonmail-bridge
+# Deploy platform-ms-protonmail-bridge
 Proton-mail bridge
